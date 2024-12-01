@@ -1,4 +1,3 @@
-### ReadMe File 
 ## Vital-Sync Fitness App
 
 ## Overview
@@ -7,10 +6,6 @@ This Fitness App is designed to help users track workouts, stay motivated, and m
 ##App Demo
 https://youtu.be/0ePKuhByubE?t=8&si=GCOm0GZm3l6TkHYN
 
-## Key Changes Made to accommodate the Final Poe 
-•	Implemented lists to organize data effectively and enhance the app's responsiveness.
-•	Modified the sleeping mode page as it was the fourth feature that was needed.
-•	Integrated new features: fingerprint biometric authentication, offline mode functionality, a notification channel, and language support for Zulu.
 ## Features
 •	Workout Notifications: Sends alerts when users complete workouts or need reminders.
 •	Notification Channel: A dedicated channel for fitness-related notifications.
@@ -19,15 +14,18 @@ https://youtu.be/0ePKuhByubE?t=8&si=GCOm0GZm3l6TkHYN
 •	Multi-language Support: Includes language support for Zulu as well as English to enhance accessibility.
 Feture 4 - Is the sleeping mode 
 Feature 5 - Single sign in element
+
 ## Technologies Used
 •	Android SDK: Core application framework.
 •	Kotlin: Backend logic and functionality implementation.
 •	Android Jetpack Components: Used for lifecycle management and UI components.
 •	Data Structures: Implemented lists and dictionaries for managing workouts, reminders, and notifications.
+
 ## Installation and Setup Requirements
 •	Operating System: Android 12 or higher
 •	Minimum SDK: API Level 24
 •	Permissions: Required permissions for notifications and biometric authentication.
+
 ## Setup Instructions
 1.	Clone the repository to your local machine.
 2.	Open the project in Android Studio.
@@ -58,6 +56,8 @@ Feature 5 - Single sign in element
 5.	Open a pull request.
 
 ### App Layout
+![IMG-20241104-WA0020](https://github.com/user-attachments/assets/cc5eb4d7-c359-45ad-9d21-2a244227714d)
+
 ## Welcome Page
 Background: Vibrant ocean or beach-themed background that creates a refreshing and motivating atmosphere.
 Title and Tagline:
@@ -66,7 +66,10 @@ Welcome Message: A friendly and encouraging message welcoming users to their fit
 Call-to-Action Button:
 Button Text: “Click Here” in a large, bold, blue button.
 Positioned at the bottom to direct users to the registration or login page.
+
 ## Registration Page
+![Screenshot_20241201_200009_HealthGuide_](https://github.com/user-attachments/assets/895cac3b-6cbd-45ef-97f9-e64820db1734)
+
 App Logo and Background:
 Logo: "Vital-Sync" logo at the top.
 Background with a subtle beach theme, consistent with the welcome page for branding consistency.
@@ -82,6 +85,8 @@ Sign-In Link:
 Small link beneath the button, allowing existing users to navigate to the login page.
 
 ## Login Page
+![Screenshot_20241201_200019_HealthGuide_](https://github.com/user-attachments/assets/e28ac412-6af5-457a-861c-aae0ca6441da)
+
 App Logo and Background:
 Logo: "Vital-Sync" logo at the top, matching the registration page.
 Same background as the previous pages to maintain branding.
@@ -92,7 +97,10 @@ Login Button:
 Large blue button labeled “Login” for users to submit their credentials.
 Create Account Link:
 Small link below the button for new users to go to the registration page.
+
 ## Health Profile Page
+![Screenshot_20241201_200552_HealthGuide_](https://github.com/user-attachments/assets/d6fbbc1e-af66-4da7-aa2e-07dfe9dd9267)
+
 Background:
 Consistent blue background, providing a calming feel and visual uniformity with previous screens.
 Form Fields:
@@ -104,6 +112,8 @@ Submit Button:
 Blue button labeled “Click Here” at the bottom to save profile information.
 
 ## Diet Tracker Layout
+![IMG-20241104-WA0016](https://github.com/user-attachments/assets/10016798-3234-40c6-af2b-342bc483745d)
+
 Page Title: “MY Diet Tracker” with a notification bell for diet-related notifications.
 Caloric Breakdown: Eaten vs. Burned Calories: Shows daily caloric intake and calories burned.
 Macronutrient Breakdown: Displays remaining counts for Carbs, Protein, and Fats, with progress bars.
@@ -111,6 +121,8 @@ Meal Tracking: Breakfast, Lunch, Dinner Sections: Each meal has its own section 
 Navigation Bar: Same as the main dashboard, with options for Home, Diet Tracker, Health Guide, and Settings.
 
 ## Health Guide Layout
+![Screenshot_20241201_200709_HealthGuide_](https://github.com/user-attachments/assets/951fd05d-645e-49bb-a52f-540172021ad9)
+
 Page Title: “Health Guide” with a notification icon.
 Recipes Section: Contains healthy recipes.
 Workout Section: Displays workout routines or guides.
@@ -175,6 +187,8 @@ Difficulty Level: Options to select between Beginner, Intermediate, and Advanced
 Save Button: A green "SAVE" button to confirm customization settings.
 
 ## Food Section Page
+![IMG-20241104-WA0018](https://github.com/user-attachments/assets/839698a6-441a-4a05-aa59-fb66ff11148e)
+
 Back Arrow: Positioned on the left to navigate back.
 Page Title: "Food Section" centered at the top.
 Food Categories:
@@ -184,7 +198,11 @@ Advanced: Shows a high-protein meal or something focused on intensive diet requi
 Each category features an image related to food for different levels of diet complexity.
 
 ## Privacy & Security Page
+![IMG-20241104-WA0023](https://github.com/user-attachments/assets/32609f6b-22b3-4af6-947c-751ba5a16696)
+
 Back Arrow: Positioned on the left to return to the previous page.
+![IMG-20241104-WA0022](https://github.com/user-attachments/assets/82ddeda5-8a76-4a90-824b-140b275b87b6)
+
 Page Title: "Privacy & Security" centered at the top.
 Privacy Options:
 Biometrics: Option for enabling biometric access.
