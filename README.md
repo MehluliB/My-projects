@@ -1,4 +1,6 @@
 **My Projects**
+
+
 **Each project highlights my skills in:**
 
 Frontend and Backend Development
