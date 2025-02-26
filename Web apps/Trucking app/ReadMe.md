@@ -1,6 +1,7 @@
 ### **MyFleetManagerPro – Submitted by: C# Shooters**  
 
 **MyFleetManagerPro** is a fleet management software designed for **automating fuel transaction data capture**. It uses an **Optical Character Recognition (OCR) scanner** to extract details from fuel-up receipts, eliminating manual data entry and improving accuracy. Fleet managers can track **fleets, drivers, vehicles, and fuel transactions**, generating detailed reports for better decision-making.  
+![image](https://github.com/user-attachments/assets/d1f41c47-8114-446b-8871-b2b35e4c969b)
 
 ### **My Role & Contributions**  
 - **UI/UX Design:** Designed an intuitive and user-friendly interface for seamless navigation.  
