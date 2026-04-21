@@ -1,25 +1,45 @@
 ## Vital-Sync Fitness App
 
 ## Overview
-This Fitness App is designed to help users track workouts, stay motivated, and manage notifications about their fitness journey. Built as a robust and user-friendly application, it provides workout completion alerts, a notification channel for important reminders, and includes biometric login, offline mode, and support for multiple languages, including Zulu.
+Vital-Sync is an Android fitness application designed to help users track workouts, maintain healthy habits, and stay motivated throughout their fitness journey.
+
+The application includes workout tracking, health monitoring, biometric authentication, notification reminders, offline support, and multi-language functionality including English and isiZulu to improve accessibility.
+
+The goal of the project was to create a user-friendly mobile fitness companion that helps users monitor their health data while maintaining secure and efficient access to their information.
 
 ##App Demo
 https://youtu.be/0ePKuhByubE?t=8&si=GCOm0GZm3l6TkHYN
 
-## Features
-•	Workout Notifications: Sends alerts when users complete workouts or need reminders.
-•	Notification Channel: A dedicated channel for fitness-related notifications.
-•	Biometric Authentication: Secure login using fingerprint biometrics.
-•	Offline Mode: Access essential features even without internet connectivity.
-•	Multi-language Support: Includes language support for Zulu as well as English to enhance accessibility.
-Feture 4 - Is the sleeping mode 
-Feature 5 - Single sign in element
+## Key Features
+🏋 Workout Tracking
+- Tracks daily fitness activities
+- Provides alerts when workout goals are achieved
+- Displays steps, heart rate, weight, height, and health metrics
+🔔 Smart Notifications
+- Sends workout reminders
+- Alerts users when milestones are reached
+- Dedicated notification channel for fitness alerts
+🔐 Biometric Authentication
+- Secure login using fingerprint authentication
+- Enhances privacy and security
+🌙 Sleeping Mode
+- Allows users to activate a resting mode
+- Reduces notifications and activity prompts during sleep hours
+🌐 Multi-Language Support
+- Supports English and isiZulu
+- Improves accessibility for local users
+🔑 Single Sign-On
+- Simplifies authentication across the application
+📶 Offline Mode
+-Allows users to view workouts and goals without internet connectivity
 
 ## Technologies Used
-•	Android SDK: Core application framework.
-•	Kotlin: Backend logic and functionality implementation.
-•	Android Jetpack Components: Used for lifecycle management and UI components.
-•	Data Structures: Implemented lists and dictionaries for managing workouts, reminders, and notifications.
+| Technology      | Purpose                                                        |
+| --------------- | -------------------------------------------------------------- |
+| Android SDK     | Core mobile application framework                              |
+| Kotlin          | Application logic and backend functionality                    |
+| Android Jetpack | Lifecycle management and UI architecture                       |
+| Data Structures | Lists and dictionaries for managing workouts and notifications |
 
 ## Installation and Setup Requirements
 •	Operating System: Android 12 or higher
