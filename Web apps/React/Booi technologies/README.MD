@@ -62,6 +62,10 @@ Netlify
 
 To provide businesses with innovative, reliable, and cost-effective technology solutions that drive growth, improve efficiency, and create lasting value.
 
+<p align="center">
+  <img src="assets/banner.jpeg" alt="Booi Technologies Banner" width="100%">
+</p>
+
 🤝 Why Choose Booi Technologies?
 Client-focused approach
 Reliable technical expertise
