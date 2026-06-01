@@ -62,7 +62,6 @@ Netlify
 
 To provide businesses with innovative, reliable, and cost-effective technology solutions that drive growth, improve efficiency, and create lasting value.
 
-ima= "
 🤝 Why Choose Booi Technologies?
 Client-focused approach
 Reliable technical expertise
@@ -71,8 +70,9 @@ Personalized support
 Long-term partnerships
 Scalable business solutions
 🌍 Live Website
+https://booitechn.netlify.app
 
-🌐 Website: https://booitech.co.za (or update with your current domain)
+🌐 Website: https://booitechn.netlify.app/
 
 📞 Contact
 
